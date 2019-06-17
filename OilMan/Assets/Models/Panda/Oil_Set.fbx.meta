@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 8f1c6d025c093d7449e45e810a1b1768
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Barrel Rust
+    100004: Boat
+    100006: Crane
+    100008: Crane Extension
+    100010: Curved Railing
+    100012: Helipad
+    100014: Ladder
+    100016: Long Building
+    100018: Oil Rig Leg
+    100020: Oil Rig Platform
+    100022: Oil Tower
+    100024: //RootNode
+    100026: Pipe Elbow
+    100028: Pipe Straight
+    100030: Pipe Straight with Valve
+    100032: Railing
+    100034: Ring
+    100036: Shipment Container
+    100038: Silo Caps
+    100040: Silo Cylinder
+    100042: Silo Sphere
+    100044: Silo Support
+    100046: Small Building
+    100048: Smoke Stack
+    100050: Star One Sided
+    100052: Tall Building
+    100054: Track Rail
+    100056: Train Hitch
+    100058: Truck
+    100060: Truck Hitch
+    100062: Window
+    400000: Barrel
+    400002: Barrel Rust
+    400004: Boat
+    400006: Crane
+    400008: Crane Extension
+    400010: Curved Railing
+    400012: Helipad
+    400014: Ladder
+    400016: Long Building
+    400018: Oil Rig Leg
+    400020: Oil Rig Platform
+    400022: Oil Tower
+    400024: //RootNode
+    400026: Pipe Elbow
+    400028: Pipe Straight
+    400030: Pipe Straight with Valve
+    400032: Railing
+    400034: Ring
+    400036: Shipment Container
+    400038: Silo Caps
+    400040: Silo Cylinder
+    400042: Silo Sphere
+    400044: Silo Support
+    400046: Small Building
+    400048: Smoke Stack
+    400050: Star One Sided
+    400052: Tall Building
+    400054: Track Rail
+    400056: Train Hitch
+    400058: Truck
+    400060: Truck Hitch
+    400062: Window
+    2100000: Material.001
+    2100002: Material
+    2300000: Barrel
+    2300002: Barrel Rust
+    2300004: Boat
+    2300006: Crane
+    2300008: Crane Extension
+    2300010: Curved Railing
+    2300012: Helipad
+    2300014: Ladder
+    2300016: Long Building
+    2300018: Oil Rig Leg
+    2300020: Oil Rig Platform
+    2300022: Oil Tower
+    2300024: Pipe Elbow
+    2300026: Pipe Straight
+    2300028: Pipe Straight with Valve
+    2300030: Railing
+    2300032: Ring
+    2300034: Shipment Container
+    2300036: Silo Caps
+    2300038: Silo Cylinder
+    2300040: Silo Sphere
+    2300042: Silo Support
+    2300044: Small Building
+    2300046: Smoke Stack
+    2300048: Star One Sided
+    2300050: Tall Building
+    2300052: Track Rail
+    2300054: Train Hitch
+    2300056: Truck
+    2300058: Truck Hitch
+    2300060: Window
+    3300000: Barrel
+    3300002: Barrel Rust
+    3300004: Boat
+    3300006: Crane
+    3300008: Crane Extension
+    3300010: Curved Railing
+    3300012: Helipad
+    3300014: Ladder
+    3300016: Long Building
+    3300018: Oil Rig Leg
+    3300020: Oil Rig Platform
+    3300022: Oil Tower
+    3300024: Pipe Elbow
+    3300026: Pipe Straight
+    3300028: Pipe Straight with Valve
+    3300030: Railing
+    3300032: Ring
+    3300034: Shipment Container
+    3300036: Silo Caps
+    3300038: Silo Cylinder
+    3300040: Silo Sphere
+    3300042: Silo Support
+    3300044: Small Building
+    3300046: Smoke Stack
+    3300048: Star One Sided
+    3300050: Tall Building
+    3300052: Track Rail
+    3300054: Train Hitch
+    3300056: Truck
+    3300058: Truck Hitch
+    3300060: Window
+    4300000: Barrel Rust
+    4300002: Window
+    4300004: Truck Hitch
+    4300006: Truck
+    4300008: Long Building
+    4300010: Tall Building
+    4300012: Small Building
+    4300014: Boat
+    4300016: Crane
+    4300018: Helipad
+    4300020: Smoke Stack
+    4300022: Barrel
+    4300024: Oil Tower
+    4300026: Oil Rig Platform
+    4300028: Oil Rig Leg
+    4300030: Shipment Container
+    4300032: Train Hitch
+    4300034: Track Rail
+    4300036: Pipe Elbow
+    4300038: Curved Railing
+    4300040: Railing
+    4300042: Ring
+    4300044: Star One Sided
+    4300046: Pipe Straight with Valve
+    4300048: Silo Caps
+    4300050: Ladder
+    4300052: Silo Cylinder
+    4300054: Pipe Straight
+    4300056: Crane Extension
+    4300058: Silo Support
+    4300060: Silo Sphere
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
